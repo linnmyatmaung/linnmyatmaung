@@ -5,10 +5,10 @@
 ---
 
 <p align="center">
-  <img  src ="https://github-readme-stats.vercel.app/api?username=linnmyatmaung&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">
+  <img  src ="https://github-readme-stats.vercel.app/api?username=linnmyatmaung&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"></br></br>
   <img  src ="https://nirzak-streak-stats.vercel.app/?user=linnmyatmaung&theme=transparent&hide_border=false">
 </p>
-
+</br>
 <p align="center">
   <a href="">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnmyatmaung&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"

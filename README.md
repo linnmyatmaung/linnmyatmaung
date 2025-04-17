@@ -3,19 +3,14 @@
 > I am a Full-Stack Web Developer from Yangon, Myanmar. I am currently working on Freelance Projects.
 
 ---
-
 <p align="center">
-  <img  src ="https://github-readme-stats.vercel.app/api?username=linnmyatmaung&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"></br></br>
-  <img  src ="https://nirzak-streak-stats.vercel.app/?user=linnmyatmaung&theme=transparent&hide_border=false">
-</p>
-</br>
-<p align="center">
-  <a href="">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnmyatmaung&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  <img width="45%" src ="https://github-readme-stats.vercel.app/api?username=linnmyatmaung&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">
+  <img width="45%" style="margin-bottom:10;"src ="https://nirzak-streak-stats.vercel.app/?user=linnmyatmaung&theme=transparent&hide_border=false">
+   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnmyatmaung&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
       alt="linnmyatmaung :: Top Langs by repo" />
-    
-  </a>
 </p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linnmyatmaung&label=Profile%20views&color=0e75b6&style=flat" alt="linnmyatmaung" /> </p>
 

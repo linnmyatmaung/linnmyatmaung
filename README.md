@@ -6,8 +6,12 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=linnmyatmaung&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">
   <img style="margin-bottom:10;"src ="https://nirzak-streak-stats.vercel.app/?user=linnmyatmaung&theme=transparent&hide_border=false">
-   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnmyatmaung&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-      alt="linnmyatmaung :: Top Langs by repo" />
+</p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnmyatmaung&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="linnmyatmaung :: Top Langs by repo"
+    style="width: 40%;" />
 </p>
 
 

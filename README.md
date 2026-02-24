@@ -4,7 +4,6 @@
 
 ---
 <p align="center">
-  <img width="45%" src ="https://github-readme-stats.vercel.app/api?username=linnmyatmaung&theme=react&show_icons=true&hide_border=true&count_private=true">
   <img width="45%" src ="https://github-readme-streak-stats.herokuapp.com/?user=linnmyatmaung&theme=react&hide_border=true">
 </p>
 

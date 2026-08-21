@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/linnmyatmaung](https://github.com/linnmyatmaung)
+- 👨‍💻 All of my projects are available at [https://linnmyatmaung.me](https://linnmyatmaung.me)
 
 - 💬 Ask me about **Java, Spring Framework, Go, MySQL, HTML, CSS, JavaScript, JQuery, TypeScript, Angular, React, Vuejs**
 
